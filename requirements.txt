@@ -8,3 +8,4 @@ Flask-JWT-Extended~=4.6.0
 Flask-Login~=0.6.3
 Werkzeug~=3.0.2
 WTForms~=3.1.2
+psycopg2~=2-2.9.10
